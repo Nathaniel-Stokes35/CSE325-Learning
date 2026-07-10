@@ -62,7 +62,8 @@ Code:
     );
 
     return report.ToString();
-}```
+}
+```
 
 Generated Result:
 ```Sales Summary
