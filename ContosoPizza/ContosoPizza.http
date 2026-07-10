@@ -1,0 +1,65 @@
+@ContosoPizza_HostAddress = http://localhost:5254
+
+GET {{ContosoPizza_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{ContosoPizza_HostAddress}}/pizza/
+Accept: application/json
+
+###
+
+GET {{ContosoPizza_HostAddress}}/pizza/4
+Accept: application/json
+
+###
+
+[HttpPost]
+public IActionResult Create(Pizza pizza)
+{            
+    // This code will save the pizza and return a result
+}
+
+###
+
+[HttpPut("{id}")]
+public IActionResult Update(int id, Pizza pizza)
+{
+    // This code will update the pizza and return a result
+}
+
+###
+
+[HttpDelete("{id}")]
+public IActionResult Delete(int id)
+{
+    // This code will delete the pizza and return a result
+}
+
+###
+
+POST {{ContosoPizza_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Surpreme",
+    "isGlutenFree": false
+}
+
+###
+
+PUT {{ContosoPizza_HostAddress}}/pizza/3
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "Hawaiian",
+    "isGlutenFree": false
+}
+
+###
+
+DELETE {{ContosoPizza_HostAddress}}/pizza/3
+
+###
