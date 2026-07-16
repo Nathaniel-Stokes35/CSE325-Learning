@@ -51,6 +51,30 @@ public static class SeedData
                     Genre = "Western",
                     Rating = "R",
                     Price = 3.99M
+                },
+                new Movie
+                {
+                    Title = "V for Vendetta",
+                    ReleaseDate = DateTime.Parse("2006-3-17"),
+                    Genre = "Action",
+                    Rating = "R",
+                    Price = 1.68M
+                },
+                new Movie
+                {
+                    Title = "I am Legend",
+                    ReleaseDate = DateTime.Parse("2007-12-14"),
+                    Genre = "Thriller",
+                    Rating = "R",
+                    Price = 2.32M
+                },
+                new Movie
+                {
+                    Title = "The Iron Giant",
+                    ReleaseDate = DateTime.Parse("1999-8-06"),
+                    Genre = "Family",
+                    Rating = "G",
+                    Price = 5.41M
                 }
             );
             context.SaveChanges();

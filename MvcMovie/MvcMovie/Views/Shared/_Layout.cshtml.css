@@ -9,6 +9,7 @@ a.navbar-brand {
 
 a {
   color: #0077cc;
+  text-decoration: dashed;
 }
 
 .btn-primary {
@@ -45,4 +46,8 @@ button.accept-policy {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+h2 {
+    color: aqua;
 }

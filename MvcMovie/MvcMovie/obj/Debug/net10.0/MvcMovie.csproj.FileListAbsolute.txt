@@ -22,7 +22,6 @@ c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\rjsmcsht
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\scopedcss\bundle\MvcMovie.styles.css
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
-c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-b9sayid5wm-b9sayid5wm.gz
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\dqa1xiugtd-{0}-61n19gt1b8-61n19gt1b8.gz
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\6clnpnw2tb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\gln79jq0fq-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -84,8 +83,6 @@ c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compress
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\7tpgvl3x37-{0}-muycvpuwrr-muycvpuwrr.gz
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\kk6x8kwsgs-{0}-87fc7y1x7t-87fc7y1x7t.gz
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\u23ny76nnj-{0}-mlv21k5csn-mlv21k5csn.gz
-c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\1kt5hl28no-{0}-srdz53kpfw-srdz53kpfw.gz
-c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\xzd9bq0s9u-{0}-srdz53kpfw-srdz53kpfw.gz
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\staticwebassets.build.json
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\staticwebassets.build.json.cache
 c:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\staticwebassets.development.json
@@ -365,3 +362,6 @@ C:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\bin\Debug\net10.0\runtimes
 C:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
+C:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\1kt5hl28no-{0}-7p0z6x0j1j-7p0z6x0j1j.gz
+C:\Users\Nathaniel\Documents\CSE325\MvcMovie\MvcMovie\obj\Debug\net10.0\compressed\xzd9bq0s9u-{0}-7p0z6x0j1j-7p0z6x0j1j.gz

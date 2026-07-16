@@ -10,6 +10,7 @@ a.navbar-brand[b-0uvum7rpp4] {
 
 a[b-0uvum7rpp4] {
   color: #0077cc;
+  text-decoration: dashed;
 }
 
 .btn-primary[b-0uvum7rpp4] {
@@ -46,4 +47,8 @@ button.accept-policy[b-0uvum7rpp4] {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+h2[b-0uvum7rpp4] {
+    color: aqua;
 }
