@@ -66,3 +66,4 @@ C:\Users\Nathaniel\Documents\CSE325\bin\Debug\net10.0\zh-Hans\Humanizer.resource
 C:\Users\Nathaniel\Documents\CSE325\bin\Debug\net10.0\zh-Hant\Humanizer.resources.dll
 C:\Users\Nathaniel\Documents\CSE325\obj\Debug\net10.0\CSE325.csproj.AssemblyReference.cache
 C:\Users\Nathaniel\Documents\CSE325\obj\Debug\net10.0\CSE325.csproj.Up2Date
+C:\Users\Nathaniel\Documents\CSE325\obj\Debug\net10.0\CSE325.sourcelink.json
